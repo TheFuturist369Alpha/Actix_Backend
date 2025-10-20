@@ -1,0 +1,14 @@
+C:\My RW Applications\rust\Actix_Demo\main\target\debug\deps\serde-4c1f75e766e3acaa.d: C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\My\ RW\ Applications\rust\Actix_Demo\main\target\debug\build\serde-15a02bf4066364b5\out/private.rs
+
+C:\My RW Applications\rust\Actix_Demo\main\target\debug\deps\libserde-4c1f75e766e3acaa.rlib: C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\My\ RW\ Applications\rust\Actix_Demo\main\target\debug\build\serde-15a02bf4066364b5\out/private.rs
+
+C:\My RW Applications\rust\Actix_Demo\main\target\debug\deps\libserde-4c1f75e766e3acaa.rmeta: C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\My\ RW\ Applications\rust\Actix_Demo\main\target\debug\build\serde-15a02bf4066364b5\out/private.rs
+
+C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\David\ Elvis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\My\ RW\ Applications\rust\Actix_Demo\main\target\debug\build\serde-15a02bf4066364b5\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\My RW Applications\\rust\\Actix_Demo\\main\\target\\debug\\build\\serde-15a02bf4066364b5\\out
