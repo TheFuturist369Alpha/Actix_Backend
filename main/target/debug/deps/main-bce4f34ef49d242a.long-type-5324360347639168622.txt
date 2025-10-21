@@ -1,0 +1,2 @@
+impl std::future::Future<Output = Data<Arc<sqlx_core::pool::Pool<sqlx_postgres::database::Postgres>>>>
+impl std::future::Future<Output = Data<Arc<sqlx_core::pool::Pool<sqlx_postgres::database::Postgres>>>>: Clone
