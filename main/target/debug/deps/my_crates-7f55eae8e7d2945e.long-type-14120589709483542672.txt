@@ -1,0 +1,1 @@
+std::option::Option<chrono::DateTime<Utc>>: std::convert::From<std::option::Option<NaiveDateTime>>

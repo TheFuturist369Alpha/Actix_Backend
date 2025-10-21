@@ -1,0 +1,1 @@
+C:\My\ RW\ Applications\rust\Actix_Demo\my_crates\target\debug\libmy_crates.rlib: C:\My\ RW\ Applications\rust\Actix_Demo\my_crates\src\DB_Connect.rs C:\My\ RW\ Applications\rust\Actix_Demo\my_crates\src\Entities.rs C:\My\ RW\ Applications\rust\Actix_Demo\my_crates\src\handlers.rs C:\My\ RW\ Applications\rust\Actix_Demo\my_crates\src\lib.rs

@@ -1,0 +1,2 @@
+fn(Data<Arc<AppConf>>, {type error}) -> impl std::future::Future<Output = impl Responder> {get_app}
+fn(Data<Arc<AppConf>>, {type error}) -> impl std::future::Future<Output = impl Responder> {get_app}: HttpServiceFactory
